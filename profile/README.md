@@ -17,6 +17,7 @@
 4. A platform which keeps you updated about Goverment Schemes and News related to agriculture  .
 5. A Platform where farmers/ User get instant support for their queries from Our Trained chatbot .
 6. A Platform which keeps farmers updated about their weather condition based on their location  .
+7. Crop recommendation from soil nutrition and weather data of current location. 
 
 ## FlowChart : 
 
